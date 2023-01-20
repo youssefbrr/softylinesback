@@ -32,6 +32,11 @@
       "relation": "oneToMany",
       "target": "api::comment.comment",
       "mappedBy": "postId"
+    },
+    "likes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "plugin::users-permissions.user"
     }
   }
 }

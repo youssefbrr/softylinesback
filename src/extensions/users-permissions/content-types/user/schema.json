@@ -79,7 +79,7 @@
     "coverImg": {
       "type": "string",
       "required": true,
-      "default": "/uploads/logo_0191eeafa9.png"
+      "default": "/uploads/logo_5bb35b2071.png"
     },
     "profileImg": {
       "type": "string",
